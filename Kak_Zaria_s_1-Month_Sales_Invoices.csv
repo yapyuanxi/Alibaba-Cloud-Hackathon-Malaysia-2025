@@ -1,0 +1,62 @@
+Invoice Number,Date,Item,Quantity,Unit Price,Total
+BAKE-20240401,2025-04-17,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240401,2025-04-17,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240401,2025-04-17,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240402,2025-04-18,Banana Cake Slice,4,3.5,14.0
+BAKE-20240403,2025-04-19,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240404,2025-04-20,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240405,2025-04-21,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240406,2025-04-22,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240406,2025-04-22,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240407,2025-04-23,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240407,2025-04-23,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240408,2025-04-24,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240408,2025-04-24,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240409,2025-04-25,Banana Cake Slice,4,3.5,14.0
+BAKE-20240409,2025-04-25,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240410,2025-04-26,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240410,2025-04-26,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240411,2025-04-27,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240412,2025-04-28,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240412,2025-04-28,Banana Cake Slice,4,3.5,14.0
+BAKE-20240413,2025-04-29,Banana Cake Slice,4,3.5,14.0
+BAKE-20240413,2025-04-29,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240414,2025-04-30,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240415,2025-05-01,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240415,2025-05-01,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240416,2025-05-02,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240416,2025-05-02,Banana Cake Slice,4,3.5,14.0
+BAKE-20240416,2025-05-02,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240417,2025-05-03,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240417,2025-05-03,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240417,2025-05-03,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240418,2025-05-04,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240419,2025-05-05,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240419,2025-05-05,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240419,2025-05-05,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240420,2025-05-06,Banana Cake Slice,4,3.5,14.0
+BAKE-20240420,2025-05-06,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240421,2025-05-07,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240421,2025-05-07,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240421,2025-05-07,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240422,2025-05-08,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240422,2025-05-08,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240422,2025-05-08,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240423,2025-05-09,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240423,2025-05-09,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240424,2025-05-10,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240424,2025-05-10,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240425,2025-05-11,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240426,2025-05-12,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240426,2025-05-12,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240426,2025-05-12,Banana Cake Slice,4,3.5,14.0
+BAKE-20240427,2025-05-13,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
+BAKE-20240428,2025-05-14,Banana Cake Slice,4,3.5,14.0
+BAKE-20240428,2025-05-14,Roti Jala with Curry (set),2,10.0,20.0
+BAKE-20240428,2025-05-14,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240429,2025-05-15,Banana Cake Slice,4,3.5,14.0
+BAKE-20240429,2025-05-15,Kek Batik Mini Tray,3,8.0,24.0
+BAKE-20240429,2025-05-15,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240430,2025-05-16,Mini Kuih Lapis Packs,1,5.0,5.0
+BAKE-20240430,2025-05-16,Banana Cake Slice,4,3.5,14.0
+BAKE-20240430,2025-05-16,Homemade Chocolate Muffins (box of 6),2,12.0,24.0
