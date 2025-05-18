@@ -1,4 +1,4 @@
-# Alibaba-Cloud-Hackathon-Malaysia-2025
+# Alibaba-Cloud-Hackathon-Malaysia-2025 (Finalist !) 
 # 📊 Revolutionizing MSMEs financial assistance through AI passport
 
 This project analyzes sales data from a Malaysian home-based bakery to assess **microloan repayment ability** and generate actionable financial insights. It calculates risk scores, repayment ratios, and uses a language model (LLM) to provide tailored loan eligibility advice. Data is also uploaded into a MySQL database for BI/dashboard integration.
